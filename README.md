@@ -1,6 +1,6 @@
 ##### Group Member: Kun Huang, Haiyu Li, Zhibing Liu, Mingjia Mao, Shunhao Tang , Jiajun Yang  
 
-## About project
+## About Project
 
 
 ### Assignment 1
