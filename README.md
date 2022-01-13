@@ -1,4 +1,3 @@
-# CISC 322 project
 ### Member: Huang Kun ,Li Haiyu ,Liu Zhibing ,Mao Mingjia ,Tang Shunhao ,Yang Jiajun 
 
 ## About project
