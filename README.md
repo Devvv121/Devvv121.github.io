@@ -5,7 +5,6 @@
 
 ### Assignment 1
 + Conceptual Architecture report: [A1 report](https://devvv121.github.io/)
-
 + Conceptual Architecture slides: [A1 report](https://devvv121.github.io/)
 
 ### Assignment 2
