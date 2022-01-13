@@ -1,4 +1,4 @@
-##### Member: Kun Huang, Haiyu Li, Zhibing Liu, Mingjia Mao, Shunhao Tang , Jiajun Yang  
+##### Group Member: Kun Huang, Haiyu Li, Zhibing Liu, Mingjia Mao, Shunhao Tang , Jiajun Yang  
 
 ## About project
 
@@ -17,6 +17,8 @@
 + Proposal for Enhancement slides：[A3 report](https://devvv121.github.io/)
 
 ### Links:
+
+### Books:
 
 ### Source:
 
