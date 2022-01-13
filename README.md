@@ -21,5 +21,4 @@
 
 ### Source:
 
-### Tutorial Links:
 
