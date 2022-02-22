@@ -4,7 +4,7 @@
 
 
 ### Assignment 1
-+ Conceptual Architecture report: [A1 report](https://docs.google.com/document/d/1nOGzHhzaYwbautL0PXo9t7KIq_W6nciP9Jz87lj-xR4/edit?usp=sharing)
++ Conceptual Architecture report: [A1 report](https://docs.google.com/document/d/1ovCIlBmu_5Fp3sya6JfYzyuTzs0wZ3bz/edit?usp=sharing&ouid=102545189150725699178&rtpof=true&sd=true)
 + Conceptual Architecture slides: [A1 report](https://devvv121.github.io/)
 
 ### Assignment 2
