@@ -1,7 +1,7 @@
 ##### Group Member: Kun Huang, Haiyu Li, Zhibing Liu, Mingjia Mao, Shunhao Tang , Jiajun Yang  
 
 ## About Project
-
+@import "CISC322 Assn1 report.pdf"
 
 ### Assignment 1
 + Conceptual Architecture report: [A1 report](CISC322 Assn1 report.pdf)
