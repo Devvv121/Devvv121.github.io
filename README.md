@@ -4,7 +4,7 @@
 
 
 ### Assignment 1
-+ Conceptual Architecture report: [A1 report](<center><embed src="/CISC322 Assn1 report.pdf" width="850" height="600"></center>)
++ Conceptual Architecture report: [A1 report](CISC322 Assn1 report.pdf)
 + Conceptual Architecture slides: [A1 report](https://devvv121.github.io/)
 
 ### Assignment 2
