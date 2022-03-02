@@ -1,4 +1,4 @@
-##### Group Member: Kun Huang, Haiyu Li, Zhibing Liu, Mingjia Mao, Shunhao Tang , Jiajun Yang  
+##### Group Member: Kun Huang, Haiyu Li, Zhibing Liu, Mingjia Mao, Jiajun Yang  
 
 ## About Project
 
