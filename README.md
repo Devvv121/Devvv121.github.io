@@ -15,10 +15,14 @@
 + Proposal for Enhancement report：[A3 report](https://devvv121.github.io/)
 + Proposal for Enhancement slides：[A3 slides](https://devvv121.github.io/)
 
-### Links:
+### Contact:
++ Kun Huang: 19kh2@queensu.ca 
++ Haiyu Li: 17hl111@queensu.ca 
++ Zhibing Liu: 18zl142@queensu.ca 
++ Mingjia Mao: 17mm78@queensu.ca 
++ Jiajun Yang: 18jy56@queenus.ca
 
-### Books:
 
-### Source:
+
 
 
