@@ -15,7 +15,7 @@ As artificial intelligence becomes a hot topic in the 21st century, autonomous d
 + Proposal for Enhancement report：[A3 report](https://devvv121.github.io/)
 + Proposal for Enhancement slides：[A3 slides](https://devvv121.github.io/)
 
-### Contact:
+### Contacts:
 + Kun Huang: 19kh2@queensu.ca 
 + Haiyu Li: 17hl111@queensu.ca 
 + Zhibing Liu(Team leader): 18zl142@queensu.ca 
