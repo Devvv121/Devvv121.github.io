@@ -1,9 +1,7 @@
 ##### Group Member: Kun Huang, Haiyu Li, Zhibing Liu, Mingjia Mao, Jiajun Yang  
 
 ## About Project
-Apollo is an open-source platform facing automobile and autonomous driving
-industries, established by Baidu. The Apollo platform is divided into four sub platforms, each
-serving a different purpose. 
+As artificial intelligence becomes a hot topic in the 21st century, autonomous driving is becoming more and more developed. Autonomous driving systems allow drivers to free their hands and release their attention from congested traffic. In this project, the autonomous driving system we will discuss is Apollo. Apollo is an open-source platform facing automobile and autonomous driving industries, established by Baidu.
 
 ### Assignment 1
 + Conceptual Architecture report: [A1 report](https://drive.google.com/file/d/1BkUJyja6q_rCNVKKnQvMUvVijX9bMbfU/view?usp=sharing)
@@ -20,7 +18,7 @@ serving a different purpose.
 ### Contact:
 + Kun Huang: 19kh2@queensu.ca 
 + Haiyu Li: 17hl111@queensu.ca 
-+ Zhibing Liu: 18zl142@queensu.ca 
++ Zhibing Liu(Team leader): 18zl142@queensu.ca 
 + Mingjia Mao: 17mm78@queensu.ca 
 + Jiajun Yang: 18jy56@queenus.ca
 
