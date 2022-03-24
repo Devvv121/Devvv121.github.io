@@ -20,7 +20,7 @@ Autonomous driving is becoming more developed as Artificial Intelligence is beco
 ### Contacts:
 + Kun Huang: 19kh2@queensu.ca 
 + Haiyu Li: 17hl111@queensu.ca 
-+ Zhibing Liu(Team leader): 18zl142@queensu.ca 
++ Zhibing Liu(Group leader): 18zl142@queensu.ca 
 + Mingjia Mao: 17mm78@queensu.ca 
 + Jiajun Yang: 18jy56@queenus.ca
 
