@@ -8,7 +8,7 @@
 + Conceptual Architecture slides: [A1 slides](https://docs.google.com/presentation/d/1L3i7kXPBWAl7K9H2e6mCajbkzuGQTcji/edit?usp=sharing&ouid=102545189150725699178&rtpof=true&sd=true)
 
 ### Assignment 2
-+ Concrete Architecture report: [A2 report](https://devvv121.github.io/)
++ Concrete Architecture report: [A2 report](https://drive.google.com/file/d/1fVJCgtikodn2vtenReN4ciwH9kwkp-af/view?usp=sharing)
 + Concrete Architecture slides: [A2 slides](https://devvv121.github.io/)
 
 ### Assignment 3
