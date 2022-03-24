@@ -3,7 +3,7 @@
 ## About Project
 Autonomous driving is becoming more developed as Artificial Intelligence is becoming a trending topic in the 21 centuries. Autonomous driving system allows drivers to free their hands and release their attention from the crowded traffic. In this project, the autonomous driving system we will discuss is Apollo. Apollo is an open-source platform facing automobile and autonomous driving industries, established by Baidu.
 
-![image](https://www.neousys-tech.com/images/discover/success-baidu_apollo-auto-driving-car.jpg)
+![image](https://cdn.vox-cdn.com/thumbor/jMUU43l7mD7-lMTEDE4L_X5Wxj4=/0x0:800x533/1820x1213/filters:focal(374x264:502x392):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/55580799/baidu_apollo.0.jpg)
 
 ### Assignment 1
 + Conceptual Architecture report: [A1 report](https://drive.google.com/file/d/1BkUJyja6q_rCNVKKnQvMUvVijX9bMbfU/view?usp=sharing)
