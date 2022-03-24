@@ -1,4 +1,4 @@
-##### Group Member : Kun Huang, Haiyu Li, Zhibing Liu, Mingjia Mao, Jiajun Yang  
+##### Group Members : Kun Huang, Haiyu Li, Zhibing Liu, Mingjia Mao, Jiajun Yang  
 
 ## About Project
 Autonomous driving is becoming more developed as Artificial Intelligence is becoming a trending topic in the 21 centuries. Autonomous driving system allows drivers to free their hands and release their attention from the crowded traffic. In this project, the autonomous driving system we will discuss is Apollo. Apollo is an open-source platform facing automobile and autonomous driving industries, established by Baidu.
