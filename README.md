@@ -14,7 +14,7 @@ Autonomous driving is becoming more developed as Artificial Intelligence is beco
 + Concrete Architecture slides: [A2 slides](https://docs.google.com/presentation/d/1cuHlCR-UgAs6UmeGpq904gsqtwOSYpdA/edit?usp=sharing&ouid=102545189150725699178&rtpof=true&sd=true)
 
 ### Assignment 3
-+ Proposal for Enhancement report：[A3 report](https://devvv121.github.io/)
++ Proposal for Enhancement report：[A3 report](https://drive.google.com/file/d/19Vau_9lFtIV1q6u2aYtSbeHbGd6SoZ0-/view?usp=sharing)
 + Proposal for Enhancement slides：[A3 slides](https://devvv121.github.io/)
 
 ### Contacts:
