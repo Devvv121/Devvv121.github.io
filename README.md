@@ -15,7 +15,7 @@ Autonomous driving is becoming more developed as Artificial Intelligence is beco
 
 ### Assignment 3
 + Proposal for Enhancement report：[A3 report](https://drive.google.com/file/d/19Vau_9lFtIV1q6u2aYtSbeHbGd6SoZ0-/view?usp=sharing)
-+ Proposal for Enhancement slides：[A3 slides](https://devvv121.github.io/)
++ Proposal for Enhancement slides：[A3 slides](https://drive.google.com/file/d/1zLW5nDlsJR9D3uVnhSo_pI-kijqj4sX7/view?usp=sharing)
 
 ### Contacts:
 + Kun Huang: 19kh2@queensu.ca 
